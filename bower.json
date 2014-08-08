@@ -1,6 +1,6 @@
 {
   "name": "knockout-link-accept",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "main": "knockout.link-accept.js",
   "description": "Knockout binding to make an ajax request for a link using the given accept header",
   "keywords": [
