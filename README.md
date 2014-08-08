@@ -2,7 +2,7 @@
 
 > Knockout binding to make an ajax request for a link using the given accept header.
 
-Read a [Q&A](http://stackoverflow.com/a/20361958/316108) which describes the problem and the reason for a binding like this.
+Read a [Q&A](http://stackoverflow.com/questions/20361216/how-can-i-set-the-accept-header-for-a-link-on-a-web-page) which describes the problem and the reason for a binding like this.
 
 ##Install with [Bower](http://bower.io/)
 
