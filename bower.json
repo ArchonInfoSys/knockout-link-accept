@@ -1,0 +1,24 @@
+{
+  "name": "knockout-link-accept",
+  "version": "1.0.3",
+  "main": "knockout.link-accept.js",
+  "description": "Knockout binding to make an ajax request for a link using the given accept header",
+  "keywords": [
+    "knockout",
+    "accept",
+    "header"
+  ],
+  "authors": [
+    "Archon Information Systems"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/ArchonInfoSys/knockout-link-accept",
+  "ignore": [
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "knockout": "~3.1.0",
+    "jquery": "~1.10"
+  }
+}
