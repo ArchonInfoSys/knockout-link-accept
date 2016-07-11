@@ -7,7 +7,7 @@ Read a [Q&A](http://stackoverflow.com/questions/20361216/how-can-i-set-the-accep
 ## Installation
 
 ```
-npm install knockout-link-accept
+npm install knockout.link-accept
 ```
 
 Then add `knockout.link-accept.js` to your project.
