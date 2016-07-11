@@ -1,0 +1,30 @@
+{
+  "name": "knockout.link-accept",
+  "version": "2.0.0",
+  "description": "Knockout binding to make an ajax request for a link using the given accept header",
+  "main": "knockout.link-accept.js",
+  "scripts": {
+    "lint": "eslint . --format=unix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/civicsource/knockout.link-accept.git"
+  },
+  "keywords": [
+    "knockout",
+    "accept",
+    "header"
+  ],
+  "author": "CivicSource",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/civicsource/knockout.link-accept/issues"
+  },
+  "homepage": "https://github.com/civicsource/knockout.link-accept#readme",
+  "peerDependencies": {
+      "knockout": "3.x"
+  },
+  "dependencies": {
+      "jquery": ">=1.10"
+  }
+}
