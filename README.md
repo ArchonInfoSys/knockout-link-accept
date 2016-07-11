@@ -1,20 +1,20 @@
-#Knockout Link Accept Binding
+# Knockout Link Accept Binding
 
 > Knockout binding to make an ajax request for a link using the given accept header.
 
 Read a [Q&A](http://stackoverflow.com/questions/20361216/how-can-i-set-the-accept-header-for-a-link-on-a-web-page) which describes the problem and the reason for a binding like this.
 
-##Install with [Bower](http://bower.io/)
+## Installation
 
 ```
-bower install knockout-link-accept
+npm install knockout-link-accept
 ```
 
 Then add `knockout.link-accept.js` to your project.
 
-##How to Use
+## Usage
 
-Include the script on your page (either via a normal script tag or via an AMD loader). Then bind it to a link with an appropriate media type.
+Include the script in your project, then bind it to a link with an appropriate media type.
 
 ```html
 <a href="/api/endpoint/that/usually/returns/json" data-bind="linkAccept: 'text/csv'"></a>
